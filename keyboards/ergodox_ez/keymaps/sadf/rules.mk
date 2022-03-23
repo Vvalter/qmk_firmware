@@ -8,3 +8,4 @@ WEBUSB_ENABLE = yes
 ORYX_ENABLE = yes
 TAP_DANCE_ENABLE = yes
 RGBLIGHT_ENABLE = no
+SRC += tictactoe.c
